@@ -1,0 +1,3 @@
+/Users/colinparsons/Documents/Unreal Projects/ThirdPersonMovements/Source/ThirdPersonMovements/ThirdPersonMovements.Build.cs
+/Users/colinparsons/Documents/Unreal Projects/ThirdPersonMovements/Source/ThirdPersonMovements.Target.cs
+/Users/colinparsons/Documents/Unreal Projects/ThirdPersonMovements/Source/ThirdPersonMovementsEditor.Target.cs
